@@ -1,3 +1,5 @@
+# CUSTOMER CHURN IN SYRIA TEL
+![](./images/customer_churn_header.jpeg)
 # 1 Business Understanding 
 ## 1.1 Business Overview
 The telecommunications industry is one of the most competitive sectors worldwide, where customer retention plays a critical role in profitability and long-term sustainability. While acquiring new customers is costly, retaining existing ones is significantly more profitable (Propello, 2024).Globally, churn rates in telecom average around 31% annually, with mobile churn around 20%, highlighting the magnitude of the challenge.
