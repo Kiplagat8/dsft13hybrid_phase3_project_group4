@@ -29,9 +29,6 @@ To develop a machine learning classifier that predicts whether a Syriatel custom
 - Model Performance: Achieve at least 85% accuracy and a high AUC score (>0.85) in predicting churn.
 - Business Impact: Provide insights that reduce churn rates by enabling proactive retention strategies, targeting high-risk customers before they leave.
 
-
-
-
 ## 2. Data Understanding
 ### 2.1 Data overview
 The dataset is from kaggle with 3333 rows aand 21 columns
@@ -79,6 +76,7 @@ warnings.filterwarnings("ignore")
 df = pd.read_csv("Syria_tel.csv")
 
 - the dataset had outliers which we chose to keep for purpose of analysis.
+- the dataset was pretty clean with no missing values or duplicates.
 
 ## 4. EXPLORATORY DATA ANALYSIS
 
